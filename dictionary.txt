@@ -1,0 +1,16 @@
+Health expenditure	-	HE	-	numerical	-	Attributes
+Population vaccinated against pneumonia (%)	-	PPV	-	numerical	-	Attributes
+If the pneumonia vaccine is on the regular vaccination schedule	-	RVC	-	categorical	-	Attributes
+Gross National Income	-	GNI	-	numerical	-	Attributes
+Population using basic sanitation facilities (%)	-	PBSF	-	numerical	-	Attributes
+Population using improved sanitation facilities (%)	-	PISF	-	numerical	-	Attributes
+Total population	-	TP	-	numerical	-	Attributes
+People born in the year	-	PB	-	numerical	-	Attributes
+Birth rate per 1000 inhabitants	-	BR	-	numerical	-	Attributes
+Demographic density	-	DD	-	numerical	-	Attributes
+Male smokers (%)	-	PMS	-	numerical	-	Attributes
+Female smokers (%)	-	PFS	-	numerical	-	Attributes
+People with HIV (%)	-	PPHIV	-	numerical	-	Attributes
+Life expectancy	-	LE	-	numerical	-	Attributes
+number of pneumonia deaths in newborns from 0 to 27 days	-	NDN	-	numerical 	-	Outputs for predicting
+number of pneumonia deaths in children up to 5 years old 	-	NDC	-	numerical 	-	Outputs for predicting

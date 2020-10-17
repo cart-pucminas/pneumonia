@@ -1,6 +1,4 @@
-# pneumonia
-
-Childhood Pneumonia Data and Machine Learning Algorithms
+# Childhood Pneumonia Data and Machine Learning Algorithms
 
 Description:
 This repository contains all developed database and scripts: 

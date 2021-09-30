@@ -7,14 +7,14 @@ ii) machine learning algorithms for analyzing and predicting potential childhood
 iii) a consistent database as a baseline for training and testing the algorithms.
  
  
-================
+
 How to cite:
 ================
 ...
  
  
  
-================
+
 Configuring the Environment (how to run the experiments):
 ================
  
@@ -27,7 +27,7 @@ To install these libraries, use pip:
 
  
  
-================
+
 Hardware used to run the experiments:
 ================
  

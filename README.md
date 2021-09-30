@@ -18,7 +18,7 @@ How to cite:
 Configuring the Environment (how to run the experiments):
 ================
  
-- To configure the environment, Python 3.9 was used with the following libraries: pandas, numpy, tensorflow and scikit-learn.
+To configure the environment, Python 3.9 was used with the following libraries: pandas, numpy, tensorflow and scikit-learn.
 To install these libraries, use pip:
 * pip install pandas
 * pip install numpy

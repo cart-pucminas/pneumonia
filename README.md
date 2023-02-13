@@ -14,7 +14,7 @@ Description: This repository contains all developed database and scripts:
 
 How to cite:
 ================
-...
+SOARES, Felipe A. L.; LOUSADA, Efrem E. O.; SILVEIRA, Tiago B.; MINI, Raquel A. F.; ZÁRATE, Luis E.; FREITAS, Henrique C.. Analysis and Prediction of Childhood Pneumonia Deaths using Machine Learning Algorithms. In: SYMPOSIUM ON KNOWLEDGE DISCOVERY, MINING AND LEARNING (KDMILE), 9. , 2021, Rio de Janeiro. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2021 . p. 16-23. ISSN 2763-8944. DOI: https://doi.org/10.5753/kdmile.2021.17456.
  
  
  
